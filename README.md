@@ -131,7 +131,7 @@ pulumi login --local      # Omit --local to use Pulumi Cloud (requires an accoun
 #### 2. Clone the template repository
 
 ```sh
-git clone https://github.com/datarobot-community/talk-to-my-data-agent.git
+git clone https://github.com/auraecosystem/talk-to-my-data-agent.git
 cd talk-to-my-data-agent
 ```
 
